@@ -1,0 +1,115 @@
+
+
+*{
+ width: 20px;
+ height: 20px;
+ font-family: "Poppins", sans-serif;  
+ 
+}
+
+.contenedor {
+  background-color: rgb(248, 247, 246);
+  width: 450px;
+  height: 1450px;
+  padding: 50px;
+  border-radius: 10px;
+
+}
+
+
+body{
+  background-color: rgb(230, 217, 207);
+  position: relative;
+  left: 450px;
+  top: 10px;
+
+}
+
+.contenedor img{
+    width: 480px;
+    height: 320px;
+    border-radius: 10px;
+    text-align: end;
+}
+
+.contenedor .contenedor-2 h1 {
+font-size: 30px;
+text-align: left;
+
+}
+
+.contenedor .contenedor-2 .texto1{
+  text-align: left;
+  font-size: 10px;
+
+}
+
+.contenedor .contenedor-2 .texto2{
+    background-color: hsl(30, 18%, 87%);
+    width: 420px;
+    height: 130px;
+    font-size: 12px;
+    text-align: left;
+    border-radius: 6px;
+    margin: 20px 0;
+    line-height: 1.8;
+
+}
+
+.contenedor .contenedor-2 .texto2 h1{
+  color: hsl(332, 51%, 32%);
+  font-size: 17px;
+  text-align: left;
+ 
+
+}
+
+.contenedor .contenedor-2 .texto2 li {
+  font-size: 12px;
+  color: black;
+  
+}
+
+.contenedor .contenedor-2 h2{
+    color: hsl(332, 51%, 32%);
+    font-size: 20px;
+    text-align: left;
+   
+    }
+.contenedor .contenedor-2 ul {
+  color: hsl(24, 5%, 18%);
+  font-size: 12px;
+  
+}
+.contenedor .contenedor-2 >ol{
+color: hsl(24, 5%, 18%);
+font-size: 12px;
+line-height: 2;
+
+
+}
+
+.contenedor .contenedor-2 li{
+color: hsl(24, 5%, 18%);
+font-size: 12px;
+
+}
+
+.contenedor .contenedor-2 h3{
+  color: hsl(332, 51%, 32%);
+
+ 
+}
+
+.contenedor .contenedor-2 p{
+  color: hsl(330, 4%, 10%);
+  font-size: 11px;
+ 
+}
+
+.dos-columnas {
+  column-count: 2;
+  column-gap: 10px;
+  text-align: left;
+  
+}
