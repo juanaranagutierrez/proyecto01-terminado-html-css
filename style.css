@@ -1,8 +1,8 @@
 
 
 *{
- width: 20px;
- height: 20px;
+ width: auto;
+ height: auto;
  font-family: "Poppins", sans-serif;  
  
 }
@@ -86,7 +86,6 @@ color: hsl(24, 5%, 18%);
 font-size: 12px;
 line-height: 2;
 
-
 }
 
 .contenedor .contenedor-2 li{
@@ -98,7 +97,6 @@ font-size: 12px;
 .contenedor .contenedor-2 h3{
   color: hsl(332, 51%, 32%);
 
- 
 }
 
 .contenedor .contenedor-2 p{
