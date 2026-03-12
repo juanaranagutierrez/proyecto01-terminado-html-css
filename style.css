@@ -22,6 +22,7 @@ body{
   position: relative;
   left: 450px;
   top: 10px;
+  padding: 100px;
 
 }
 
@@ -55,7 +56,12 @@ text-align: left;
     line-height: 1.8;
 
 }
+.contenedor .linea1{
+  width: 100%;
+  height: 1px;
+  background: rgb(211, 208, 211);
 
+}
 .contenedor .contenedor-2 .texto2 h1{
   color: hsl(332, 51%, 32%);
   font-size: 17px;
@@ -96,6 +102,13 @@ font-size: 12px;
 
 .contenedor .contenedor-2 h3{
   color: hsl(332, 51%, 32%);
+
+}
+
+.contenedor .linea{
+  width: 100%;
+  height: 1px;
+  background: rgb(211, 208, 211);
 
 }
 
